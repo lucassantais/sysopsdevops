@@ -10,6 +10,14 @@ Ce projet vise à mettre en place une infrastructure serveur complète pour supp
 nous trouverons ci joint plusieurs scripts pour automatiser le déploiement de tous ces services. Il faudra bien penser a éxécuter Helm en premier avant de déployer les autres scripts.
 Il y a un script qui permet de tout refaire d'un coup, il englobe toutes les installations de services ("Script_englobant_tout_grafana_prometheus.sh")
 
+**Installation**
+
+```
+cd ~
+curl -O https://github.com/lucassantais/sysopsdevops/tree/main/Dossier%20Script%20Bash/OS-config.sh
+chmod +x OS-config.sh
+sudo ./OS-config.sh
+```
 **Fonctionnalités**
 
 Configuration d'un serveur Ubuntu avec une interface graphique Gnome pour une utilisation conviviale.
