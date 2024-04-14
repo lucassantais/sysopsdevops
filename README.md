@@ -36,9 +36,6 @@ git clone https://github.com/"votre-utilisateur"/@projetsysposdevops
 
 
 
-![Image](https://github.com/users/lucassantais/projects/1/assets/154605249/b9eefef7-aa09-48cd-a68f-66975229e6ff
-
-
-![Grafana_logo svg](https://github.com/lucassantais/sysopsdevops/assets/154605249/ad33ab45-1684-4609-8985-62cf2d39ddf7)
-![png-clipart-flame-logo-prometheus-logo-icons-logos-emojis-tech-companies](https://github.com/lucassantais/sysopsdevops/assets/154605249/ad270ebc-24b9-4363-b90d-989a9ca55a19)
+![Image](https://github.com/users/lucassantais/projects/1/assets/154605249/b9eefef7-aa09-48cd-a68f-66975229e6ff).
+ 
 
