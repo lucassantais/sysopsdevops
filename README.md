@@ -6,7 +6,8 @@ Rapport du projet Devops Atelier Méthodes Agiles de : Lucas Santais, Aurelien T
 
 Voici les différentes étapes de notre travail,
 
-Ce projet vise à mettre en place une infrastructure serveur complète pour supporter une application Web. L'infrastructure comprend un serveur Ubuntu avec une interface graphique Gnome, un service SSH, VPN, un serveur Grafana pour la visualisation des métriques, un serveur Prometheus pour la collecte des métriques système et applicatives et un script pour automatiser le déploiement de tous ces services.
+Ce projet vise à mettre en place une infrastructure serveur complète pour supporter une application Web. L'infrastructure comprend un serveur Ubuntu avec une interface graphique Gnome, un service SSH, VPN, un serveur Grafana pour la visualisation des métriques, un serveur Prometheus pour la collecte des métriques système et applicatives
+nous trouverons ci joint plusieurs scripts pour automatiser le déploiement de tous ces services. Il faudra bien penser a éxécuter Helm en premier avant de déployer les autres scripts.
 
 **Fonctionnalités**
 
@@ -17,7 +18,7 @@ Configuration d'un serveur Prometheus pour la collecte des métriques système e
 
 
 Cloner le dépôt GitHub vers votre machine locale :
-git clone https://github.com/"votre-utilisateur"/@ProjetSysposDevops
+git clone https://github.com/"votre-utilisateur"/@projetsysposdevops
 
 **Organigramme** retraçant toutes les étapes de notre travail et les solutions que nous avons trouvé afin de contourner nos problèmes.
 
